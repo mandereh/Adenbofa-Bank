@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AdenbofaBankApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AdenbofaBankApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AdenbofaBankApplication.class, args);
+    }
 
 }
